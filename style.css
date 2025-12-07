@@ -1,0 +1,56 @@
+body{
+	font-family: optima;
+}
+
+table{
+	border-collapse: collapse;
+	width: 1000px;
+}
+
+thead{
+	background-color: #D0BF8B;
+}
+
+tbody{
+	background-color: #DDD1AC;
+}
+
+th, td{
+	border: 1px solid #000000;	
+	padding-left: 5px;
+	padding-bottom: 3px;
+}
+
+img{
+	width: 500px;
+}
+		
+.header{
+	color: #FFFFFF;
+	padding: 50px 60px;
+	font-size: 50px;
+	text-align: center;
+	background-image: url(https://app.agilitywriter.ai/img/2023/08/17/p73657-Delicious-Sri-Lankan-Side-Dishes-to-Elevate-Your-Meal-f25c22978d-4053463947.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.introduction{
+	background-color: #CADCAE;
+	padding: 40px 50px;
+}
+
+.signature-dishes{
+	background-color: #E1E9C9;
+	padding: 40px 50px;
+}
+
+.ingredients-flavours{
+	background-color: #EDA35A;
+	padding: 40px 50px;
+}
+
+.culture-tradition{
+	background-color: #F08B51;
+	padding: 40px 50px;
+}
